@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/todolist/static/js/main.d4088505.js",
+    "main.js": "/todolist/static/js/main.e9620f93.js",
     "static/media/day-snowing.svg": "/todolist/static/media/day-snowing.ba1cbc7669611ee425e874e171d02e70.svg",
     "static/media/night-snowing.svg": "/todolist/static/media/night-snowing.f00de84c0d9bed3a871ecc6fdd79f1ca.svg",
     "static/media/day-thunderstorm.svg": "/todolist/static/media/day-thunderstorm.c1e5aabc2d813feeb2e535cff2b025ee.svg",
@@ -21,9 +21,9 @@
     "static/media/night-clear.svg": "/todolist/static/media/night-clear.94eb7d671bc6d4dec6aa0b47038954df.svg",
     "index.html": "/todolist/index.html",
     "static/media/rain.svg": "/todolist/static/media/rain.a2cbfbb7302d37a73d9a208f3755d205.svg",
-    "main.d4088505.js.map": "/todolist/static/js/main.d4088505.js.map"
+    "main.e9620f93.js.map": "/todolist/static/js/main.e9620f93.js.map"
   },
   "entrypoints": [
-    "static/js/main.d4088505.js"
+    "static/js/main.e9620f93.js"
   ]
 }
